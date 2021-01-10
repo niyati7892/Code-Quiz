@@ -6,4 +6,7 @@ Project Link:
 2.https://niyati7892.github.io/Code-Quiz/
 
 Full Demo:
+screen shot:
+![screenshot](./assets/Screen%20Shot%202021-01-09%20at%207.31.44%20PM.png)
+
 
